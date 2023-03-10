@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Fruit Ninja:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Fruit_Ninja_jar</output-path>
+    <root id="archive" name="Fruit Ninja.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="Fruit Ninja" />
+      <element id="library" level="project" name="libs" />
+    </root>
+  </artifact>
+</component>
